@@ -17,12 +17,12 @@ Users should be able to:
 
 ## Screenshot
 
-![]()
+![Screen Shot 2024-02-21 at 13 53 37](https://github.com/palmeiroerick/fylo-data-storage-component/assets/148393698/a0d6049c-9a10-49ce-8acf-732ce759b82d)
 
 ## Links
 
-- [Solution]()
-- [Live Site]()
+- [Solution](https://github.com/palmeiroerick/fylo-data-storage-component/)
+- [Live Site](https://fylo-data-storage-component-six-khaki.vercel.app/)
 
 ## Built with
 
