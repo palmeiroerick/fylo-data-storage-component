@@ -15,7 +15,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={raleway.className}>{children}</body>
+      <body
+        className={`${raleway.className} bg-mobile lg:bg-desktop bg-veryDarkBlue flex h-screen w-screen items-center justify-center bg-cover bg-top bg-no-repeat lg:bg-contain lg:bg-bottom`}
+      >
+        {children}
+      </body>
     </html>
   );
 }
